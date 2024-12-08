@@ -55,6 +55,3 @@ Steps
 
 - Accidentally Moved a File?  
   Use Finder’s or the file manager’s search bar to locate it.  
-
-- Need More Organization?  
-  Create subfolders for better categorization.
